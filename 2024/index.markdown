@@ -62,7 +62,7 @@ Proceedings shall be submitted to CEUR-WS.org for online publication.
 * Heerko Groefsema - University of Groningen, Netherlands
 * Elena Lazovik - TNO (Netherlands Organisation for Applied Scientific Research), Netherlands
 
-## Programme Committee
+### Programme Committee
 * Alexander Lazovik - University of Groningen, Netherlands
 * Boris Koldehofe - Ilmenau University of Technology, Germany
 * Nick van Beest - CSIRO (Commonwealth Scientific and Industrial Research Organisation), Australia
