@@ -3,7 +3,7 @@ layout: default
 ---
 [![](../assets/img/banner2024.jpg)](.)
 
-# DiDiT 2024 - 1st Workshop on Distributed Digital Twins
+# DiDiT 2024 - 1st International Workshop on Distributed Digital Twins
 
 Welcome to DiDiT 2024! The premier workshop on distributed digital twins, colocated at the [DisCoTec 2024](https://www.discotec.org/2024/) conferences June 17, Groningen, the Netherlands. 
 
