@@ -1,10 +1,9 @@
 ---
-layout: default
+layout: workshop
+banner: /assets/img/banner2024.jpg
+title: DiDiT 2024
+subtitle: 1st International Workshop on Distributed Digital Twins
 ---
-[![](../assets/img/banner2024.jpg)](.)
-
-# DiDiT 2024 - 1st International Workshop on Distributed Digital Twins
-
 Welcome to DiDiT 2024! The premier workshop on distributed digital twins, colocated at the [DisCoTec 2024](https://www.discotec.org/2024/) conferences June 17, Groningen, the Netherlands. 
 
 ## Scope
@@ -32,6 +31,16 @@ We welcome papers with novel ideas in related topics, including (but not limited
 
 ## Panelists
 * [TBD](.)
+
+<!--
+## Accepted papers
+
+Go to the [list of accepted papers](papers.markdown).
+
+## Programme
+
+Go to the [programme](programme.markdown).
+-->
 
 ## Submissions
 
@@ -63,8 +72,9 @@ Proceedings shall be submitted to CEUR-WS.org for online publication.
 * Elena Lazovik - TNO (Netherlands Organisation for Applied Scientific Research), Netherlands
 
 ### Programme Committee
-* Alexander Lazovik - University of Groningen, Netherlands
-* Boris Koldehofe - Ilmenau University of Technology, Germany
+* Marco Aiello - University of Stuttgart, Germany
 * Nick van Beest - CSIRO (Commonwealth Scientific and Industrial Research Organisation), Australia
 * Ilche Georgievski - University of Stuttgart, Germany
+* Boris Koldehofe - Ilmenau University of Technology, Germany
+* Alexander Lazovik - University of Groningen, Netherlands
 
