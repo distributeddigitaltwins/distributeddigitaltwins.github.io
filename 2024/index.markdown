@@ -65,7 +65,7 @@ Proceedings shall be submitted to CEUR-WS.org for online publication.
 
 ## Organization
 
-### Workshop Organizers
+### Organization Committee
 * Victoria Degeler - University of Amsterdam, Netherlands
 * Dilek Dustegor - University of Groningen, Netherlands
 * Heerko Groefsema - University of Groningen, Netherlands
