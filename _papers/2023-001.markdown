@@ -1,0 +1,6 @@
+---
+title: An Example of an Accepted Paper from a Non-existent Edition
+authors: H. Groefsema
+year: 2023
+---
+If we want to include an abstract, this text could be it.
