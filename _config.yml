@@ -39,6 +39,8 @@ timezone: Europe/Amsterdam # Timezone for blog posts and alike
 collections:
   papers:
     output: true
+  editions:
+    output: false
 
 # 6. Jekyll collections settings
 defaults:
