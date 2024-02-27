@@ -1,7 +1,10 @@
-<h2>Workshop editions</h2>
+{% assign editions = site.editions | shift | reverse %}
+{% if editions.size > 0 %}
+<h2>Past editions</h2>
 
 <ul>
     {% for edition in site.editions %}
     <li><a href="{{ edition.loc }}">{{ edition.edition }}</a></li>
     {% endfor %}
 </ul>
+{% endif %}
