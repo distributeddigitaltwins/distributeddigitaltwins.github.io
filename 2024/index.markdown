@@ -58,10 +58,10 @@ Deadlines expire at 23:59 anywhere on earth on the dates displayed above.
 ### Publication
 Authors are invited to submit short and regular papers electronically in PostScript or PDF using an online submission process. Submission of the paper must be completed according to the above submission dates and submissions are handled through the EasyChair conference management system, accessible from the above submission system link.
 
-Contributions must be written in English and report on original, unpublished work not submitted for publication elsewhere. The submissions must not exceed the total page number limit of 6 pages for short papers and 16 pages for regular papers, prepared using [Springer’s LNCS style](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines). Submissions not adhering to the above specified constraints may be rejected without review.
+Contributions must be written in English and report on original, unpublished work not submitted for publication elsewhere. The submissions must not exceed the total page number limit of 6 pages for short papers and 12 pages for regular papers, prepared using one-column [Springer LNCS format](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines). Submissions not adhering to the above specified constraints may be rejected without review.
 
 ### Proceedings
-Proceedings shall be submitted to CEUR-WS.org for online publication.
+Proceedings shall be submitted for online publication. More details to come.
 
 ## Organization
 
