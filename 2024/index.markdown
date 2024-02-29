@@ -78,3 +78,6 @@ Proceedings shall be submitted for online publication. More details to come.
 * Boris Koldehofe - Ilmenau University of Technology, Germany
 * Alexander Lazovik - University of Groningen, Netherlands
 
+## Contact
+
+For any questions, please contact us at didit2024 (at) easychair.org.
