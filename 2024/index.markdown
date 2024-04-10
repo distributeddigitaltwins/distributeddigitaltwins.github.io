@@ -45,8 +45,8 @@ Go to the [programme](programme.markdown).
 ## Submissions
 
 ### Important dates
-* Papers submission: April 9, 2024
-* Paper notification: May 3, 2024
+* Papers submission: ~~April 9, 2024~~ **extended April 20, 2024**
+* Paper notification: ~~May 3, 2024~~ **extended May 10, 2024**
 * Camera-ready: May 31, 2024
 * Workshop: June 17
 
@@ -75,6 +75,7 @@ Proceedings shall be submitted for online publication. More details to come.
 * Marco Aiello - University of Stuttgart, Germany
 * Nick van Beest - CSIRO (Commonwealth Scientific and Industrial Research Organisation), Australia
 * Ilche Georgievski - University of Stuttgart, Germany
+* Eduard Kamburjan - University of Oslo, Norway
 * Boris Koldehofe - Ilmenau University of Technology, Germany
 * Alexander Lazovik - University of Groningen, Netherlands
 
