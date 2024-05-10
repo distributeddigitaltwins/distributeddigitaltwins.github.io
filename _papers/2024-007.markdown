@@ -1,6 +1,6 @@
 ---
-title: Realising Distributed Digital Twins within Federated Digital Infrastructures.
-authors: Dylan Kierans and Dirk Pleiter.
+title: Realising Distributed Digital Twins within Federated Digital Infrastructures
+authors: Dylan Kierans and Dirk Pleiter
 year: 2024
 ---
 Digital twins are a concept that has initially become popular in an industrial context to support product life cycle management. Over time, the number of domains where this concept is applied has grown significantly This includes, in particular, domains where distributed digital infrastructures become mandatory for operating digital twins. A prominent example is the earth systems, weather, and climate domain. In the area of digital infrastructures, we observe significant efforts towards the federation of computing, storage, and data management services. In the context of digital twins, we consider efforts of particular interest that aim for distributed digital infrastructures based on geographically distributed resources with services operated by a diversity of organisations. In this paper, we review a choice of digital twin use cases and implementations and analyse the connection to research and development challenges that have been identified in the area of federated digital infrastructures.
