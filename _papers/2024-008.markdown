@@ -1,0 +1,6 @@
+---
+title: Science-Twins&#58; Digital Twins for Interactive Lecture Demonstrations.
+authors: Davide Rigoni and Dilek Dustegor.
+year: 2024
+---
+Digital twins are increasingly utilized across various sectors, including industry and education, due to their significant advantages in our increasingly digital world. Particularly in education, digital twins offer interactive and comprehensive learning experiences. This paper explores the benefits of integrating digital twin technology into classroom settings and proposes a proof-of-concept application suitable for both in-person and online learning environments. The application aims to enhance student engagement by providing interactive tutorials and experiments with the ability to replay digital twin simulations. By offering real-time data observation alongside simulation-based learning, the application enriches the learning experience. Moreover, the paper also provides a brief literature review on the topic of digital twins in smart classrooms.

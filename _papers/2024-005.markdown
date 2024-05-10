@@ -1,0 +1,6 @@
+---
+title: An Implementation Model for Correct Audit Logging in Cyber-Physical Systems.
+authors: Sepehr Amir-Mohammadian and Afsoon Yousefi Zowj.
+year: 2024
+---
+The widespread presence of cyber-physical systems necessitates a reliable assurance mechanism for audit logging across various discrete and continuous components of these systems. This paper explores an implementation model for cyber-physical systems. We introduce an algorithm designed to equip such systems in accordance with a formal specification of audit logging requirements, which provably ensures the generation of accurate audit logs in any instrumented system. The accuracy of the audit log is studied within an information-algebraic semantic framework of audit logging.
