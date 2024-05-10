@@ -4,12 +4,14 @@ layout: workshop
 {% assign papers = site.papers | where: "year", page.year %}
 
 {% for paper in papers %}
-<p class="paper-par">
-    <span class="paper-title">{{ paper.title }}</span>,
-    <span class="paper-authors">{{ paper.authors }}</span>,
-    <span class="paper-year">({{ paper.year }})</span>.<br>
-</p>
-<p class="paper-abstract">
+<div class="paper-div">
+    <p class="paper-par">
+        <span class="paper-title">{{ paper.title }}</span>,
+        <span class="paper-authors">{{ paper.authors }}</span>,
+        <span class="paper-year">({{ paper.year }})</span>.<br>
+    </p>
+</div>
+<div class="paper-abstract">
     {{ paper.content }}
-</p>
+</div>
 {% endfor %}
