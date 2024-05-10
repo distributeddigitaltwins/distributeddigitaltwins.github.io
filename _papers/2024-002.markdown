@@ -1,6 +1,6 @@
 ---
-title: Applying a digital twin to the operations of a Beverage Packaging Testing Lab.
-authors: Alex Vakaloudis, Dylan Olney and Derek O Herlihy.
+title: Applying a digital twin to the operations of a Beverage Packaging Testing Lab
+authors: Alex Vakaloudis, Dylan Olney and Derek O Herlihy
 year: 2024
 ---
 Testing Labs are the last quality control stop of design before the mass manufacturing of packaging for beverages (bottles and cans). For a set of packaging samples, the result of a testing job on them, is revealed only at its completion- when a report is compiled. Consequently, there is no clear view of the status of a job in progress; information useful both inside the lab to facilitate test scheduling and to the design engineers to experiment with designs and plan manufacturing. We dis-cuss a digital twin solution for Testing jobs in this domain. It takes the form of regressions carried out in significant places during the execution of the testing job which combine with real data to produce a digital, reliable version exposing the testing job’s interim status and the standing of the entailed tests. This resulting digital twin plays a supporting role to the lab personnel to evaluate progress of a job and project its outcome.

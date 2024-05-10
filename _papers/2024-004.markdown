@@ -1,6 +1,6 @@
 ---
-title: Development and Evaluation of a FIWARE-based Digital Twin Prototype for Road Systems.
-authors: Juliana Hildebrandt, Ludwig Maximilian Leibl, Dirk Habich and Wolfgang Lehner.
+title: Development and Evaluation of a FIWARE-based Digital Twin Prototype for Road Systems
+authors: Juliana Hildebrandt, Ludwig Maximilian Leibl, Dirk Habich and Wolfgang Lehner
 year: 2024
 ---
 The mobility of people and goods is a central basis of our modern society with increasingly global and diverse networked processes. In its present form, mobility, especially with regard to road traffic, is currently confronted with global challenges (durability, safety, efficiency, ecology, costs, automation, etc.) that urgently require fundamental solutions. In particular, we have to revise the way we plan and build roads and increasingly take the potential of technical innovations (digitalization or sensors) into account. To enable a more sustainable, safer, and more efficient construction and operation of roads in the future, a digital twin for the road of the future is currently under development in the Collaborative Research Center 339 at TU Dresden and RWTH Aachen. This paper describes a comprehensive case study we conducted on this digital twin road using the FIWARE open-source platform.
