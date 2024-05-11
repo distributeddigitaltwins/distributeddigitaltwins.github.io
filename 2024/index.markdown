@@ -32,11 +32,11 @@ We welcome papers with novel ideas in related topics, including (but not limited
 ## Panelists
 * [TBD](.)
 
-<!--
 ## Accepted papers
 
 Go to the [list of accepted papers](papers.markdown).
 
+<!--
 ## Programme
 
 Go to the [programme](programme.markdown).
