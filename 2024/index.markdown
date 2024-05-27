@@ -27,8 +27,8 @@ We welcome papers with novel ideas in related topics, including (but not limited
 * Interdisciplinary aspects of digital twins
 
 ## Keynote speakers
-* [TBD](.)
-
+* [Antonella Longo](https://www.unisalento.it/scheda-utente/-/people/antonella.longo) - University of Salento, Italy
+  ****
 ## Panelists
 * [TBD](.)
 
