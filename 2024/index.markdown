@@ -28,7 +28,7 @@ We welcome papers with novel ideas in related topics, including (but not limited
 
 ## Keynote speakers
 * [Antonella Longo](https://www.unisalento.it/scheda-utente/-/people/antonella.longo) - University of Salento, Italy
-  ****
+
 ## Panelists
 * [TBD](.)
 
