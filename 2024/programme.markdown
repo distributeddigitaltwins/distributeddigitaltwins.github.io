@@ -29,6 +29,6 @@ subtitle: Programme
 | 14:20-14:40     | Juliana Hildebrandt, Ludwig Maximilian Leibl, Dirk Habich and Wolfgang Lehner | _Development and Evaluation of a FIWARE-based Digital Twin Prototype for Road Systems_        |
 | 14:40-15:00     | Davide Rigoni and Dilek Dustegor                                              | _Science-Twins: Digital Twins for Interactive Lecture Demonstrations_                         |
 | **15:00-15:30** | **Coffee break**                                                              |                                                                                               |
-| **15:30-17:00** | **Panel discussion**                                                          | _Distributed Digital Twins: Engineering Challenges and Future Trends_                         |
+| **15:30-17:00** | **Panel discussion** (chair: Elena Lazovik)                                   | _Distributed Digital Twins: Engineering Challenges and Future Trends_                         |
 | 17:00-17:15     | Closing                                                                       | _Closing remarks_<br/> _Best Workshop Paper Award_                                            |
 | 18:00-19:30     | DisCoTec opening reception (city center)                                      |                                                                                               |
