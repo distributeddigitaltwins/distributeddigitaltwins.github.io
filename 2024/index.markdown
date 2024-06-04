@@ -30,17 +30,17 @@ We welcome papers with novel ideas in related topics, including (but not limited
 * [Antonella Longo](https://www.unisalento.it/scheda-utente/-/people/antonella.longo) - University of Salento, Italy
 
 ## Panelists
-* [TBD](.)
+* Hester van het Loo - Head of Informatics group, Vitens, Netherlands
+* Tomas Martinovic - Senior Researcher at IT4Innovations National Supercomputing Center, Ostrava University, Czechia
+* Dirk Pleiter - KTH Royal Institute of Technology, Sweden
 
 ## Accepted papers
 
 Go to the [list of accepted papers](papers.markdown).
 
-<!--
 ## Programme
 
 Go to the [programme](programme.markdown).
--->
 
 ## Submissions
 
