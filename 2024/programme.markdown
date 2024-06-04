@@ -18,7 +18,7 @@ subtitle: Programme
 |                 | **Invited talk**                                                              |                                                                                               |
 | **9:30-10:30**  | Prof. Antonella Longo                                                         |                                                                                               |
 | **10:30-11:00** | **Coffee break**                                                              |                                                                                               |
-|                 | **Session 1: Theory** (chair: Viktoriya Degeler)                              |                                                                                               |
+|                 | **Session 1: Theory** (chair: Victoria Degeler)                               |                                                                                               |
 | 11:00-11:20     | Dylan Kierans and Dirk Pleiter                                                | _Realising Distributed Digital Twins within Federated Digital Infrastructures_                |
 | 11:20-11:40     | Sani Abdullahi, Ashkan Zare and Sanja Lazarova-Molnar                         | _Cybersecurity in Distributed Industrial Digital Twins: Threats, Defenses, and Key Takeaways_ |
 | 11:40-12:00     | Syrine Ben Aziza and Elena Lazovik                                            | _Reliability-by-design for Digital Twins: Value Creation and Trust Throughout the Lifecycle_  |
