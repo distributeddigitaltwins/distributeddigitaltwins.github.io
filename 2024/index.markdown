@@ -48,7 +48,7 @@ Go to the [programme](programme.markdown).
 * Abstract submission: **extended April 20, 2024**
 * Papers submission: ~~April 9, 2024~~ **extended April 24, 2024**
 * Paper notification: ~~May 3, 2024~~ **extended May 10, 2024**
-* Camera-ready: May 31, 2024
+* Camera-ready: ~~May 31, 2024~~ **extended June 13, 2024**
 * Workshop: June 17
 
 Deadlines expire at 23:59 anywhere on earth on the dates displayed above.

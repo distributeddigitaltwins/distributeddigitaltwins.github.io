@@ -25,9 +25,10 @@ subtitle: Programme
 | 12:00-12:20     | Sepehr Amir-Mohammadian and Afsoon Yousefi Zowj                               | _An Implementation Model for Correct Audit Logging in Cyber-Physical Systems_                 |
 | **12:30-14:00** | **Lunch break**                                                               |                                                                                               |
 |                 | **Session 2: Applications** (chair: Dilek Dustegor)                           |                                                                                               |
-| 14:00-14:20     | Alex Vakaloudis, Dylan Olney and Derek O Herlihy                              | _Applying a digital twin to the operations of a Beverage Packaging Testing Lab_               |
-| 14:20-14:40     | Juliana Hildebrandt, Ludwig Maximilian Leibl, Dirk Habich and Wolfgang Lehner | _Development and Evaluation of a FIWARE-based Digital Twin Prototype for Road Systems_        |
-| 14:40-15:00     | Davide Rigoni and Dilek Dustegor                                              | _Science-Twins: Digital Twins for Interactive Lecture Demonstrations_                         |
+| 14:00-14:20     | Juliana Hildebrandt, Ludwig Maximilian Leibl, Dirk Habich and Wolfgang Lehner | _Development and Evaluation of a FIWARE-based Digital Twin Prototype for Road Systems_        |
+| 14:20-14:40     | Davide Rigoni and Dilek Dustegor                                              | _Science-Twins: Digital Twins for Interactive Lecture Demonstrations_                         |
+|                 | **Invited talk**                                                              |                                                                                               |
+| 14:40-15:00     | Victoria Degeler                                                              | _DiTEC: Digital Twins for Evolutionary Changes in Water Networks_                             |
 | **15:00-15:30** | **Coffee break**                                                              |                                                                                               |
 | **15:30-17:00** | **Panel discussion** (chair: Elena Lazovik)                                   | _Distributed Digital Twins: Engineering Challenges and Future Trends_                         |
 | 17:00-17:15     | Closing                                                                       | _Closing remarks_<br/> _Best Workshop Paper Award_                                            |
