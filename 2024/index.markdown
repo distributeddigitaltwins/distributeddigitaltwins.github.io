@@ -30,17 +30,17 @@ We welcome papers with novel ideas in related topics, including (but not limited
 * [Antonella Longo](https://www.unisalento.it/scheda-utente/-/people/antonella.longo) - University of Salento, Italy
 
 ## Panelists
-* [TBD](.)
+* Hester van het Loo - Head of Informatics group, Vitens, Netherlands
+* Tomas Martinovic - Senior Researcher at IT4Innovations National Supercomputing Center, Ostrava University, Czechia
+* Dirk Pleiter - KTH Royal Institute of Technology, Sweden
 
 ## Accepted papers
 
 Go to the [list of accepted papers](papers.markdown).
 
-<!--
 ## Programme
 
 Go to the [programme](programme.markdown).
--->
 
 ## Submissions
 
@@ -48,7 +48,7 @@ Go to the [programme](programme.markdown).
 * Abstract submission: **extended April 20, 2024**
 * Papers submission: ~~April 9, 2024~~ **extended April 24, 2024**
 * Paper notification: ~~May 3, 2024~~ **extended May 10, 2024**
-* Camera-ready: May 31, 2024
+* Camera-ready: ~~May 31, 2024~~ **extended June 13, 2024**
 * Workshop: June 17
 
 Deadlines expire at 23:59 anywhere on earth on the dates displayed above.
