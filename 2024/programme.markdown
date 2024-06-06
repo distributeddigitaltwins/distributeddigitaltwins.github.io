@@ -16,7 +16,7 @@ subtitle: Programme
 |-----------------|-------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
 | 9:00-9:30       | Opening                                                                       | _Welcome to DiDiT 2024_                                                                       |
 |                 | **Invited talk**                                                              |                                                                                               |
-| **9:30-10:30**  | Prof. Antonella Longo                                                         |                                                                                               |
+| **9:30-10:30**  | Prof. Antonella Longo                                                         |   _Digital Twins as a novel paradigm of interdisciplinary research_                                                                                            |
 | **10:30-11:00** | **Coffee break**                                                              |                                                                                               |
 |                 | **Session 1: Theory** (chair: Victoria Degeler)                               |                                                                                               |
 | 11:00-11:20     | Dylan Kierans and Dirk Pleiter                                                | _Realising Distributed Digital Twins within Federated Digital Infrastructures_                |
