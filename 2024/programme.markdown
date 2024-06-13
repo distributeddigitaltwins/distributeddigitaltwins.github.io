@@ -16,7 +16,7 @@ subtitle: Programme
 |-----------------|-------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
 | 9:00-9:30       | Opening                                                                       | _Welcome to DiDiT 2024_                                                                       |
 |                 | **Invited talk**                                                              |                                                                                               |
-| **9:30-10:30**  | Prof. Antonella Longo                                                         |                                                                                               |
+| **9:30-10:30**  | Prof. Antonella Longo                                                         |   _Digital Twins as a novel paradigm of interdisciplinary research_                           |
 | **10:30-11:00** | **Coffee break**                                                              |                                                                                               |
 |                 | **Session 1: Theory** (chair: Victoria Degeler)                               |                                                                                               |
 | 11:00-11:20     | Dylan Kierans and Dirk Pleiter                                                | _Realising Distributed Digital Twins within Federated Digital Infrastructures_                |
@@ -26,7 +26,7 @@ subtitle: Programme
 | **12:30-14:00** | **Lunch break**                                                               |                                                                                               |
 |                 | **Session 2: Applications** (chair: Dilek Dustegor)                           |                                                                                               |
 | 14:00-14:20     | Juliana Hildebrandt, Ludwig Maximilian Leibl, Dirk Habich and Wolfgang Lehner | _Development and Evaluation of a FIWARE-based Digital Twin Prototype for Road Systems_        |
-| 14:20-14:40     | Davide Rigoni and Dilek Dustegor                                              | _Science-Twins: Digital Twins for Interactive Lecture Demonstrations_                         |                                                     |
+| 14:20-14:40     | Davide Rigoni and Dilek Dustegor                                              | _Science-Twins: Digital Twins for Interactive Lecture Demonstrations_                         |
 | 14:40-15:00     | Victoria Degeler (invited talk)                                               | _DiTEC: Digital Twins for Evolutionary Changes in Water Networks_                             |
 | **15:00-15:30** | **Coffee break**                                                              |                                                                                               |
 | **15:30-17:00** | **Panel discussion** (chair: Elena Lazovik)                                   | _Distributed Digital Twins: Engineering Challenges and Future Trends_                         |
