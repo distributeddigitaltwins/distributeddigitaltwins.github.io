@@ -31,7 +31,7 @@ We welcome papers with novel ideas in related topics, including (but not limited
 
 ## Panelists
 * Hester van het Loo - Head of Informatics group, Vitens, Netherlands
-* Tomas Martinovic - Senior Researcher at IT4Innovations National Supercomputing Center, Ostrava University, Czechia
+* Tomas Martinovic - Senior Researcher at IT4Innovations, VSB - Technical University of Ostrava, Czechia
 * Dirk Pleiter - KTH Royal Institute of Technology, Sweden
 
 ## Accepted papers
