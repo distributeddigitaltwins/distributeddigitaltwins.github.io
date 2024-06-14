@@ -30,9 +30,11 @@ We welcome papers with novel ideas in related topics, including (but not limited
 * [Antonella Longo](https://www.unisalento.it/scheda-utente/-/people/antonella.longo) - University of Salento, Italy
 
 ## Panelists
+* Kristian Helmholt - Senior System architect for Energy and Mobility domains at TNO, Netherlands
+* Dimka Karastoyanova - Professor of Information Systems at University of Groningen, Netherlands
 * Hester van het Loo - Enterprise Architect at Vitens N.V., Netherlands
 * Tomas Martinovic - Senior Researcher at IT4Innovations, VSB - Technical University of Ostrava, Czechia
-* Dirk Pleiter - KTH Royal Institute of Technology, Sweden
+* Dirk Pleiter - Professor of High Performance Computing at KTH Royal Institute of Technology, Sweden
 
 ## Accepted papers
 
