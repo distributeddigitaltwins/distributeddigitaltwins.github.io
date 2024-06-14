@@ -81,7 +81,6 @@ Proceedings shall be submitted for online publication. More details to come.
 * Eduard Kamburjan - University of Oslo, Norway
 * Boris Koldehofe - Ilmenau University of Technology, Germany
 * Alexander Lazovik - University of Groningen, Netherlands
-* Eduard Kamburjan - University of Oslo, Norway
 
 ## Contact
 
