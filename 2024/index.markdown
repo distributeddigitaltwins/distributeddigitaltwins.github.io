@@ -30,7 +30,7 @@ We welcome papers with novel ideas in related topics, including (but not limited
 * [Antonella Longo](https://www.unisalento.it/scheda-utente/-/people/antonella.longo) - University of Salento, Italy
 
 ## Panelists
-* Hester van het Loo - Head of Informatics group, Vitens, Netherlands
+* Hester van het Loo - Enterprise Architect at Vitens N.V., Netherlands
 * Tomas Martinovic - Senior Researcher at IT4Innovations, VSB - Technical University of Ostrava, Czechia
 * Dirk Pleiter - KTH Royal Institute of Technology, Sweden
 
