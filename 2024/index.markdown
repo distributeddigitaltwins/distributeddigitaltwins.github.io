@@ -64,7 +64,9 @@ Authors are invited to submit short and regular papers electronically in PostScr
 Contributions must be written in English and report on original, unpublished work not submitted for publication elsewhere. The submissions must not exceed the total page number limit of 6 pages for short papers and 12 pages for regular papers, prepared using one-column [Springer LNCS format](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines). Submissions not adhering to the above specified constraints may be rejected without review.
 
 ### Proceedings
-Proceedings shall be submitted for online publication. More details to come.
+Proceedings are in [CEUR workshop proceedings Vol-3755](http://ceur-ws.org/Vol-3755). 
+
+To reference the papers published within these proceedings, please follow the [CEUR workshop proceeding conventions](https://ceur-ws.org/HOWTOSUBMIT.html#REFERENCE).
 
 ## Organization
 
