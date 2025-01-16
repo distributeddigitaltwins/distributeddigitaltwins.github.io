@@ -60,7 +60,7 @@ Submissions not adhering to the above specified constraints may be rejected with
 ### Proceedings
 All papers accepted will be published as a volume of the [Book Series on Ambient Intelligence and Smart Environments (IOS Press)](https://www.iospress.com/catalog/book-series/ambient-intelligence-and-smart-environments) which is published Open Access and indexed by Clarivate (Web of Science).
 
-LaTEX/Word templates:  http://www.iospress.nl/service/authors/latex-and-word-tools-for-book-authors/
+LaTEX/Word templates: [http://www.iospress.nl/service/authors/latex-and-word-tools-for-book-authors/](http://www.iospress.nl/service/authors/latex-and-word-tools-for-book-authors/)
 
 ## Organization
 
