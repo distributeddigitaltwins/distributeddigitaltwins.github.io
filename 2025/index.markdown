@@ -58,7 +58,9 @@ Contributions must be written in English and report on original, unpublished wor
 Submissions not adhering to the above specified constraints may be rejected without review.
 
 ### Proceedings
-All papers accepted will be published as a volume of the [Book Series on Ambient Intelligence and Smart Environments (IOS Press)](https://www.iospress.com/catalog/book-series/ambient-intelligence-and-smart-environments) which is published Open Access and indexed by Clarivate (Web of Science).
+All papers accepted will be published as an Open Access volume of the [Book Series on Ambient Intelligence and Smart Environments (IOS Press)](https://www.iospress.com/catalog/book-series/ambient-intelligence-and-smart-environments), indexed in the Conference Proceedings Citation Index - Science (CPCI-S) by Thomson Reuters.
+
+Authors of selected papers will be invited to submit extended versions to the Journal of Reliable Intelligent Environments (Springer), currently indexed within the first quartile (Q1) in SJR (Scimago Journal Rank). These invitations will be sent by email after the event has been held.
 
 LaTEX/Word templates: [http://www.iospress.nl/service/authors/latex-and-word-tools-for-book-authors/](http://www.iospress.nl/service/authors/latex-and-word-tools-for-book-authors/)
 
