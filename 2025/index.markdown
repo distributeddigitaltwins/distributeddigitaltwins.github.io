@@ -38,6 +38,16 @@ We welcome papers with novel ideas in related topics, including (but not limited
 ## Panelists
 * Tbd
 
+<!--
+## Accepted papers
+
+Go to the [list of accepted papers](papers.markdown).
+
+## Programme
+
+Go to the [programme](programme.markdown).
+-->
+
 ## Submissions
 
 ### Important dates
@@ -49,7 +59,7 @@ We welcome papers with novel ideas in related topics, including (but not limited
 Deadlines expire at 23:59 anywhere on earth on the dates displayed above.
 
 ### Submission system
-[https://easychair.org/conferences/?conf=didit2025](https://easychair.org/conferences/?conf=didit2025)
+[https://cmt3.research.microsoft.com/IE2025/](https://cmt3.research.microsoft.com/IE2025/) (Select WS7: DiDiT).
 
 ### Publication
 Authors are invited to submit short and regular papers electronically in Word, PostScript or PDF format using an online submission process. Submission of the paper must be completed according to the above submission dates and submissions are handled through the EasyChair conference management system, accessible from the above submission system link.
@@ -75,6 +85,8 @@ LaTEX/Word templates: [http://www.iospress.nl/service/authors/latex-and-word-too
 ### Programme Committee
 * Tbd
 
+<!--
 ## Contact
 
 For any questions, please contact us at didit2025 (at) easychair.org.
+-->
