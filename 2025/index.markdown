@@ -54,7 +54,7 @@ Go to the [programme](programme.markdown).
 * Papers submission: **March 24, 2025**
 * Paper notification: **April 17, 2025**
 * Camera-ready: **Tbd**
-* Workshop: **June 23, 2025**
+* Workshop: **June 23/24, 2025**
 
 Deadlines expire at 23:59 anywhere on earth on the dates displayed above.
 
