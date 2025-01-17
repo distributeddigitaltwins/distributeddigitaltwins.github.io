@@ -85,8 +85,7 @@ LaTEX/Word templates: [http://www.iospress.nl/service/authors/latex-and-word-too
 ### Programme Committee
 * Tbd
 
-<!--
+
 ## Contact
 
-For any questions, please contact us at didit2025 (at) easychair.org.
--->
+For any questions, please contact us at didit (at) list.rug.nl.
