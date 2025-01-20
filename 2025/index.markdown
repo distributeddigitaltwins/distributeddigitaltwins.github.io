@@ -88,4 +88,4 @@ LaTEX/Word templates: [http://www.iospress.nl/service/authors/latex-and-word-too
 
 ## Contact
 
-For any questions, please contact us at didit (at) list.rug.nl.
+For any questions, please contact us at didit (at) list.rug.nl. Note that you will need to confirm sending the message in an automatic reply.
