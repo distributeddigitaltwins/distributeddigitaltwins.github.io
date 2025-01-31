@@ -59,7 +59,7 @@ Go to the [programme](programme.markdown).
 Deadlines expire at 23:59 anywhere on earth on the dates displayed above.
 
 ### Submission system
-[https://cmt3.research.microsoft.com/IE2025/](https://cmt3.research.microsoft.com/IE2025/) (Select WS7: DiDiT).
+[https://easychair.org/conferences?conf=didit2025](https://easychair.org/conferences?conf=didit2025)
 
 ### Publication
 Authors are invited to submit short and regular papers electronically in Word, PostScript or PDF format using an online submission process. Submission of the paper must be completed according to the above submission dates and submissions are handled through the EasyChair conference management system, accessible from the above submission system link.
@@ -88,4 +88,4 @@ LaTEX/Word templates: [http://www.iospress.nl/service/authors/latex-and-word-too
 
 ## Contact
 
-For any questions, please contact us at didit (at) list.rug.nl. Note that you will need to confirm sending the message in an automatic reply.
+For any questions, please contact us at didit2025 (at) easychair.org.
