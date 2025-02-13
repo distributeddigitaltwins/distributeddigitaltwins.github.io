@@ -4,7 +4,7 @@ banner: /assets/img/banner2025.jpg
 title: DiDiT 2025
 subtitle: 2nd International Workshop on Distributed Digital Twins
 ---
-Welcome to DiDiT 2025! The premier workshop on distributed digital twins, co-located with the [The 21st International Conference on Intelligent Environments](https://www.ie2025.fraunhofer.de/), June 23--26, Darmstadt, Germany.
+Welcome to DiDiT 2025! The premier workshop on distributed digital twins, co-located with [the 21st International Conference on Intelligent Environments](https://www.ie2025.fraunhofer.de/), June 23--26, Darmstadt, Germany.
 
 ## Scope
 
@@ -83,7 +83,12 @@ LaTEX/Word templates: [http://www.iospress.nl/service/authors/latex-and-word-too
 * Elena Lazovik - TNO (Netherlands Organisation for Applied Scientific Research), Netherlands
 
 ### Programme Committee
-* Tbd
+* Loek Cleophas - Eindhoven University of Technology, Netherlands
+* Ilche Georgievski - University of Stuttgart, Germany
+* Eduard Kamburjan - IT University of Copenhagen, Denmark
+* Nesrine Mezhoudi - Imam Abdulrahman Bin Faisal University, Saudi Arabia
+* Dirk Pleiter - University of Groningen
+* Marco Zappatorre - University of Salento, Italy
 
 
 ## Contact
