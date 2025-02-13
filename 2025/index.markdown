@@ -4,7 +4,7 @@ banner: /assets/img/banner2025.jpg
 title: DiDiT 2025
 subtitle: 2nd International Workshop on Distributed Digital Twins
 ---
-Welcome to DiDiT 2025! The premier workshop on distributed digital twins, colocated at the [IE2025](https://www.ie2025.fraunhofer.de/) conferences June 23--26, Darmstadt, Germany.
+Welcome to DiDiT 2025! The premier workshop on distributed digital twins, co-located with [the 21st International Conference on Intelligent Environments](https://www.ie2025.fraunhofer.de/), June 23--26, Darmstadt, Germany.
 
 ## Scope
 
