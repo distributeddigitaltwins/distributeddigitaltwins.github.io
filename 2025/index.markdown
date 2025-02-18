@@ -86,7 +86,7 @@ LaTEX/Word templates: [http://www.iospress.nl/service/authors/latex-and-word-too
 * Loek Cleophas - Eindhoven University of Technology, Netherlands
 * Ilche Georgievski - University of Stuttgart, Germany
 * Eduard Kamburjan - IT University of Copenhagen, Denmark
-* Nesrine Mezhoudi - Imam Abdulrahman Bin Faisal University, Saudi Arabia
+* Nesrine Mezhoudi - Institut Supérieur d'Informatique et de Multimédia de Gabès, Tunisia
 * Dirk Pleiter - University of Groningen
 * Marco Zappatorre - University of Salento, Italy
 
