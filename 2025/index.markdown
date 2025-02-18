@@ -33,7 +33,8 @@ We welcome papers with novel ideas in related topics, including (but not limited
 * Interdisciplinary aspects of digital twins
 
 ## Keynote speakers
-* Tbd
+* Eduard Kamburjan - IT University of Copenhagen, Denmark
+
 
 ## Panelists
 * Tbd
