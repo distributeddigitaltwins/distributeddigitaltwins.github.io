@@ -89,6 +89,7 @@ LaTEX/Word templates: [http://www.iospress.nl/service/authors/latex-and-word-too
 * Omar Hegazy - Vrije Universiteit Brussel, Belgium
 * Eduard Kamburjan - IT University of Copenhagen, Denmark
 * Alexander Lazovik - University of Groningen, Netherlands
+* Antonella Longo - University of Salento, Italy
 * Nesrine Mezhoudi - Institut Supérieur d'Informatique et de Multimédia de Gabès, Tunisia
 * Dirk Pleiter - University of Groningen, Netherlands
 * Marco Zappatorre - University of Salento, Italy
