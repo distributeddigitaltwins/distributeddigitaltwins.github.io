@@ -52,7 +52,7 @@ Go to the [programme](programme.markdown).
 ## Submissions
 
 ### Important dates
-* Papers submission: **March 7, 2025**
+* Papers submission: **~~March 7, 2025~~ March 17, 2025 (firm deadline)**
 * Paper notification: **April 4, 2025**
 * Camera-ready: **April 11, 2025**
 * Workshop: **June 23/24, 2025**
