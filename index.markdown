@@ -1,5 +1,5 @@
 ---
 permalink: /
 redirect_to:
-  - /2025/
+  - /2026/
 ---
