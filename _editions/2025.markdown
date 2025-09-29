@@ -1,4 +1,0 @@
----
-edition: DiDiT 2025 - 2nd International Workshop on Distributed Digital Twins
-loc: /2025/
----
