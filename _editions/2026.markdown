@@ -1,0 +1,4 @@
+---
+edition: DiDiT 2026 - 2nd International Workshop on Distributed Digital Twins
+loc: /2026/
+---

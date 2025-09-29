@@ -1,10 +1,10 @@
 ---
 layout: workshop
-banner: /assets/img/banner2025.jpg
-title: DiDiT 2025
+banner: /assets/img/banner2026.jpg
+title: DiDiT 2026
 subtitle: 2nd International Workshop on Distributed Digital Twins
 ---
-Welcome to DiDiT 2025! The premier workshop on distributed digital twins, co-located with [the 21st International Conference on Intelligent Environments](https://www.ie2025.fraunhofer.de/), June 23--26, Darmstadt, Germany.
+Welcome to DiDiT 2026! The premier workshop on distributed digital twins, co-located with [the 22nd International Conference on Intelligent Environments](https://ie2026.pt/), June 15--18, Lisbon, Portugal.
 
 ## Scope
 
@@ -33,7 +33,7 @@ We welcome papers with novel ideas in related topics, including (but not limited
 * Interdisciplinary aspects of digital twins
 
 ## Keynote speakers
-* Eduard Kamburjan - IT University of Copenhagen, Denmark
+* Tbd
 
 
 ## Panelists
@@ -52,26 +52,32 @@ Go to the [programme](programme.markdown).
 ## Submissions
 
 ### Important dates
-* Papers submission: **March 7, 2025**
-* Paper notification: **April 4, 2025**
-* Camera-ready: **April 11, 2025**
-* Workshop: **June 23/24, 2025**
+* Papers submission: **March 13, 2026**
+* Paper notification: **April 10, 2026**
+* Camera-ready: **April 17, 2026**
+* Workshop: **June 15/16, 2026**
 
 Deadlines expire at 23:59 anywhere on earth on the dates displayed above.
 
 ### Submission system
-[https://easychair.org/conferences?conf=didit2025](https://easychair.org/conferences?conf=didit2025)
+Tbd
 
 ### Publication
-Authors are invited to submit short and regular papers electronically in Word, PostScript or PDF format using an online submission process. Submission of the paper must be completed according to the above submission dates and submissions are handled through the EasyChair conference management system, accessible from the above submission system link.
+Authors are invited to submit short and regular papers electronically that adhere to the [IOS Press Format](https://www.iospress.com/book-article-instructions) and should be 6-10 pages (no more than 10).
+Papers should be submitted directly to the conference paper management tool for the workshop.
+Submission of the paper must be completed according to the above submission dates and submissions are handled through the conference paper management tool for the workshop conference management system, accessible from the above submission system link.
 
-Contributions must be written in English and report on original, unpublished work not submitted for publication elsewhere. All papers will be submitted to a peer review process by referees with experience in the area. Submissions must be formatted according to the IOS Press style, with a length of at least 6 but no more than 10 pages.
+Contributions must be written in English and report on original, unpublished work not submitted for publication elsewhere. 
+All papers will be submitted to a peer review process by referees with experience in the area. 
+Submissions must be formatted according to the IOS Press style, with a length of at least 6 but no more than 10 pages.
 Submissions not adhering to the above specified constraints may be rejected without review.
 
 ### Proceedings
 All papers accepted will be published as an Open Access volume of the [Book Series on Ambient Intelligence and Smart Environments (IOS Press)](https://www.iospress.com/catalog/book-series/ambient-intelligence-and-smart-environments), indexed in the Conference Proceedings Citation Index - Science (CPCI-S) by Thomson Reuters.
 
+<!--
 Authors of selected papers will be invited to submit extended versions to the [Journal of Reliable Intelligent Environments (Springer)](https://www.iospress.com/catalog/journals/journal-of-smart-cities-and-society), currently indexed within the first quartile (Q1) in SJR (Scimago Journal Rank). These invitations will be sent by email after the event has been held.
+-->
 
 LaTEX/Word templates: [http://www.iospress.nl/service/authors/latex-and-word-tools-for-book-authors/](http://www.iospress.nl/service/authors/latex-and-word-tools-for-book-authors/)
 
@@ -84,6 +90,8 @@ LaTEX/Word templates: [http://www.iospress.nl/service/authors/latex-and-word-too
 * Elena Lazovik - TNO (Netherlands Organisation for Applied Scientific Research), Netherlands
 
 ### Programme Committee
+
+<!--
 * Loek Cleophas - Eindhoven University of Technology, Netherlands
 * Ilche Georgievski - University of Stuttgart, Germany
 * Omar Hegazy - Vrije Universiteit Brussel, Belgium
@@ -93,7 +101,7 @@ LaTEX/Word templates: [http://www.iospress.nl/service/authors/latex-and-word-too
 * Nesrine Mezhoudi - Institut Supérieur d'Informatique et de Multimédia de Gabès, Tunisia
 * Dirk Pleiter - University of Groningen, Netherlands
 * Marco Zappatorre - University of Salento, Italy
-
+-->
 
 ## Contact
 
