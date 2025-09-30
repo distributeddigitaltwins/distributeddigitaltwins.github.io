@@ -63,7 +63,8 @@ Deadlines expire at 23:59 anywhere on earth on the dates displayed above.
 Tbd
 
 ### Publication
-Authors are invited to submit short and regular papers electronically that adhere to the [IOS Press Format](https://www.iospress.com/book-article-instructions) and should be 6-10 pages (no more than 10).
+Authors are invited to submit short and regular papers electronically that adhere to the [IOS Press Format](https://www.iospress.com/book-article-instructions/).
+The minimum-maximum length for papers submitted to this workshop is 6-10 pages.
 Papers should be submitted directly to the conference paper management tool for the workshop.
 Submission of the paper must be completed according to the above submission dates and submissions are handled through the conference paper management tool for the workshop conference management system, accessible from the above submission system link.
 
@@ -73,13 +74,12 @@ Submissions must be formatted according to the IOS Press style, with a length of
 Submissions not adhering to the above specified constraints may be rejected without review.
 
 ### Proceedings
-All papers accepted will be published as an Open Access volume of the [Book Series on Ambient Intelligence and Smart Environments (IOS Press)](https://www.iospress.com/catalog/book-series/ambient-intelligence-and-smart-environments), indexed in the Conference Proceedings Citation Index - Science (CPCI-S) by Thomson Reuters.
+All papers accepted will be published in the proceedings of the event which will be an Open Access volume in the Book Series on Ambient Intelligence and Smart Environments.
+Workshops Proceedings published by this Book Series are indexed by Clarivate (Web of Science).
 
-<!--
-Authors of selected papers will be invited to submit extended versions to the [Journal of Reliable Intelligent Environments (Springer)](https://www.iospress.com/catalog/journals/journal-of-smart-cities-and-society), currently indexed within the first quartile (Q1) in SJR (Scimago Journal Rank). These invitations will be sent by email after the event has been held.
--->
+The minimum-maximum length for papers submitted to this workshop is 6-10 pages.
 
-LaTEX/Word templates: [http://www.iospress.nl/service/authors/latex-and-word-tools-for-book-authors/](http://www.iospress.nl/service/authors/latex-and-word-tools-for-book-authors/)
+Formatting files to be used for papers submitted to our workshop: [http://www.iospress.nl/service/authors/latex-and-word-tools-for-book-authors/](http://www.iospress.nl/service/authors/latex-and-word-tools-for-book-authors/)
 
 ## Organization
 
