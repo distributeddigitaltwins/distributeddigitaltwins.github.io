@@ -103,8 +103,7 @@ Formatting files to be used for papers submitted to our workshop: [http://www.io
 * Marco Zappatorre - University of Salento, Italy
 -->
 
-<!--
+
 ## Contact
 
-For any questions, please contact us at didit2025 (at) easychair.org.
--->
+For any questions, please contact us at: DIDIT [at] list.rug.nl.
