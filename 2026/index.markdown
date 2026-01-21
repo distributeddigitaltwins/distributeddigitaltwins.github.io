@@ -80,8 +80,7 @@ Deadlines expire at 23:59 anywhere on earth on the dates displayed above.
 ### Publication
 Authors are invited to submit short and regular papers electronically that adhere to the [IOS Press Format](https://www.iospress.com/book-article-instructions/).
 The minimum-maximum length for papers submitted to this workshop is 6-10 pages.
-Papers should be submitted directly to the conference paper management tool for the workshop.
-Submission of the paper must be completed according to the above submission dates and submissions are handled through the conference paper management tool for the workshop conference management system, accessible from the above submission system link.
+Submission of the paper must be completed according to the above submission dates and submissions are handled through EasyChair, accessible from the above submission system link.
 
 Contributions must be written in English and report on original, unpublished work not submitted for publication elsewhere. 
 All papers will be submitted to a peer review process by referees with experience in the area. 
